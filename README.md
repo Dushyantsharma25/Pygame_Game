@@ -9,4 +9,4 @@
 #### * In Linux
     sudo apt install python3 python3-pip
 
-### Now you can copy all these files in any of your folder and enjoy a basic game 😉😉😉 
+### Now you can copy all these repo files in any of your folder and enjoy a basic game 😉😉😉 
